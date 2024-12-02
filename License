@@ -1,0 +1,25 @@
+License for Script-Configs Repository
+
+Permission is hereby granted to anyone to fork, remix, and use the content within this repository, Script-Configs, hosted under the GitHub account Nobodylmao-sigma-is-me, subject to the following terms:
+
+1. Purpose  
+This repository serves as a library of Roblox scripts that may include:  
+- Scripts I have found and backed up.  
+- URLs used in scripts.  
+- rbxassetid assets or rbxasset files built into Roblox.
+
+2. File Naming  
+All files in this repository use UUID-generated names obtained from https://www.uuidgenerator.net/.
+
+3. Usage Rights  
+You are free to:  
+- Fork this repository.  
+- Remix the contents for your own use or projects.  
+
+4. Attribution  
+- If redistributed, acknowledgment of this repository as the source is appreciated but not mandatory.
+
+5. Limitations  
+- This repository is provided as-is, with no guarantees of accuracy, functionality, or completeness of the scripts or assets.  
+- The repository is not affiliated with Roblox Corporation, and its contents comply with Roblox’s Terms of Service.  
+- Users are responsible for ensuring their use of the contents complies with all applicable laws and platform policies.
